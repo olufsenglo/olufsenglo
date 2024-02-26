@@ -7,19 +7,9 @@
 
 **💼 Skills Snapshot:**
 
-- **Proficient:** React, Typescript, Next.js
+- **Proficient:** React, Typescript, Next.js, Tailwind CSS, SCSS/Sass, Figma, Git, React Testing Library
 - **Hands-On Experience:** Node.js
 - **Good Knowledge:** C, Python, PHP
-
-🛠️ **Toolbox:**
-
-- **UI Libraries/Frameworks:** Material-UI, Bootstrap, Tailwind CSS
-- **CSS Preprocessors:** Sass, Less
-- **Package Managers:** npm, Yarn
-- **Build Tools:** Webpack, Parcel
-- **Testing Frameworks:** Jest, React Testing Library
-- **Design Tools:** Figma, Adobe XD
-- **Version Control:** Git
 - **Favorite Editor:** Vim
 
 ⚙️ **Tech Enthusiast:**
