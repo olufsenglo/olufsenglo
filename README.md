@@ -22,4 +22,4 @@
 
 👀 **Check Out My Latest Work:**
 
-- [E-commerce Website: Vensle](https://nominet.vensle.com/)
+- [Vensle: E-commerce Website](https://nominet.vensle.com/)
