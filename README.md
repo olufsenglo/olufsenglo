@@ -2,7 +2,7 @@
 
 **🚀 Why Me?**
 
-- **Proven Track Record:** Successfully delivered 10+ of projects, exceeding client expectations.
+- **Proven Track Record:** Successfully delivered 10+ projects, exceeding client expectations.
 - **Problem Solver:** Thrive on tackling complex challenges.
 
 **💼 Skills Snapshot:**
